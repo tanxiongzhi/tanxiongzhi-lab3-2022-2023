@@ -1,0 +1,2 @@
+Picture 1 shows the movie list. When you click any list item, you will jump to the details page of the list
+Picture 2 shows the film details page, including the cover, name, release year and overview of the film
